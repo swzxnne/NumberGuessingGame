@@ -9,7 +9,7 @@ A simple CLI-based number guessing game built with Node.js. The computer picks a
 Make sure you have [Node.js](https://nodejs.org) installed, then run:
 
 ```bash
-node numberGuessingGame.js
+node NumberGuessingGame.js
 ```
 
 No installs. No dependencies. Just Node.
@@ -75,7 +75,7 @@ Congratulations! You guessed the correct number in 3 attempts.
 ```
 number-guessing-game/
 │
-├── numberGuessingGame.js   # Main game file
+├── NumberGuessingGame.js   # Main game file
 └── README.md        # You're reading it
 ```
 
