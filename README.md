@@ -1,6 +1,6 @@
 # 🎮 Number Guessing Game
 
-A simple CLI-based number guessing game built with Node.js. The computer picks a random number between 1 and 100 — your job is to guess it before you run out of chances.
+A simple CLI-based number guessing game built with Node.js. The computer picks a random number between 1 and 100 - your job is to guess it before you run out of chances.
 
 ---
 
@@ -9,7 +9,8 @@ A simple CLI-based number guessing game built with Node.js. The computer picks a
 Make sure you have [Node.js](https://nodejs.org) installed, then run:
 
 ```bash
-node NumberGuessingGame.js
+npm install
+npm start
 ```
 
 No installs. No dependencies. Just Node.
@@ -65,8 +66,8 @@ Congratulations! You guessed the correct number in 3 attempts.
 
 ## 🛠️ Built With
 
-- [Node.js](https://nodejs.org) — JavaScript runtime
-- `readline` — built-in Node.js module for CLI input
+- [Node.js](https://nodejs.org) - JavaScript runtime
+- `readline` - built-in Node.js module for CLI input
 
 ---
 
@@ -75,7 +76,7 @@ Congratulations! You guessed the correct number in 3 attempts.
 ```
 number-guessing-game/
 │
-├── NumberGuessingGame.js   # Main game file
+├── index.js   # Main game file
 └── README.md        # You're reading it
 ```
 

@@ -14,7 +14,8 @@
   "author": "Suzanne",
   "type": "commonjs",
   "main": "index.js",
-  "scripts": { 
+  "scripts": {
     "start": "node index.js"
   }
+  
 }
