@@ -32,7 +32,7 @@ function GameStart(maxAttepmts, level) {
     }
 
     rl.question(
-      `Enter your guess, ${maxAttepmts - attempts} chances left:`,
+      `Enter your guess, ${maxAttepmts - attempts} chances left: `,
       (guess) => {
         guess = parseInt(guess);
 
